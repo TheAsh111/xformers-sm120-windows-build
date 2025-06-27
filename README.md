@@ -63,3 +63,5 @@ The wheel is tagged `cp39-abi3`, which means it uses Python's "Stable ABI". It i
 7.  You are ready to launch!
 
 8.  i'm not a dev, it was one night with gemini pro^^
+9.  ps:triton error is normal on windows...
+
