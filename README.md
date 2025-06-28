@@ -43,7 +43,7 @@ The wheel is tagged `cp39-abi3`, which means it uses Python's "Stable ABI". It i
 
 4.  **Install the exact PyTorch nightly builds:**
     ```bash
-    pip install --upgrade pip
+    python -m pip install --upgrade pip
     pip install torch==2.8.0.dev20250626+cu128 torchvision==0.23.0.dev20250627+cu128 --index-url https://download.pytorch.org/whl/nightly/cu128
     ```
 
